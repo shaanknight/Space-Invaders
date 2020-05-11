@@ -17,5 +17,5 @@ is faster but only freezes the enemy on contact. Aim of game is to get as maximu
 - Controls follow traditional classic titles (A,D) for left and right movement of missile
 - To fire a slow missile press spacebar
 - To fire a fast missile press s
-- To quit, press qw
+- To quit, press q
 
